@@ -2,7 +2,5 @@
 
 different changes
 
-Editing on update_readme
 
-
-Local update
+update on master before rebase
